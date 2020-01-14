@@ -1,2 +1,14 @@
 # 2.5-months-of-facebook-pytorch-scholarship
-My pledge "2.5 months of Udacity" for the Facebook Pytorch Scholarship: https://www.udacity.com/scholarships/facebook-pytorch-scholarship
+My pledge "2.5 months of Udacity" for the Facebook Pytorch Scholarship:\
+https://www.udacity.com/scholarships/facebook-pytorch-scholarship
+
+## Day 1: January 13, 2020. #30DaysofUdacity
+- I entered the classroom and watched some videos.
+- My current progress is:\
+  **Part 1. Intro to Deep Learning with PyTorch from Facebook** (Progress 34%)\
+  **Lesson 3 - Introduction to Neural Networks** (Progress 40%)\
+  **1. Introduction**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 1](images/Day001.png)
+
