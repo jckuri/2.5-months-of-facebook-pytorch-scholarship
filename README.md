@@ -10,5 +10,5 @@ https://www.udacity.com/scholarships/facebook-pytorch-scholarship
   **1. Introduction**
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
-![Day 1](images/Day001.png)
+![Day 1](images/Day001.jpg)
 
