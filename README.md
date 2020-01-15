@@ -12,3 +12,12 @@ https://www.udacity.com/scholarships/facebook-pytorch-scholarship
 
 ![Day 1](images/Day001.jpg)
 
+## Day 2: January 14, 2020. #30DaysofUdacity
+- I watched some video lectures.
+- My current progress is:\
+  **Part 1. Intro to Deep Learning with PyTorch from Facebook** (Progress 37%)\
+  **Lesson 3 - Introduction to Neural Networks** (Progress 50%)\
+  **7. Why "Neural Networks"?**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 2](images/Day002.jpg)
