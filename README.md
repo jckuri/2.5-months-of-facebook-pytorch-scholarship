@@ -351,3 +351,23 @@ https://www.udacity.com/scholarships/facebook-pytorch-scholarship
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 35](images/Day035.jpg)
+
+## Day 36: February 17, 2020. #30DaysofUdacity
+- I watched some video lectures.
+- My current progress is:\
+  **Part 1. Intro to Deep Learning with PyTorch from Facebook**\
+  **Lesson 4 - Talking PyTorch with Soumith Chintala**\
+  **5. Cutting-edge Applications in PyTorch**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 36](images/Day036.jpg)
+
+## Day 37: February 18, 2020. #30DaysofUdacity
+- I watched some video lectures.
+- My current progress is:\
+  **Part 1. Intro to Deep Learning with PyTorch from Facebook**\
+  **Lesson 4 - Talking PyTorch with Soumith Chintala**\
+  **6. User Needs and Adding Features**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 37](images/Day037.jpg)
