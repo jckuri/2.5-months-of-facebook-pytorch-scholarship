@@ -381,3 +381,13 @@ https://www.udacity.com/scholarships/facebook-pytorch-scholarship
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 38](images/Day038.jpg)
+
+## Day 39: February 20, 2020. #30DaysofUdacity
+- I watched some video lectures.
+- My current progress is:\
+  **Part 1. Intro to Deep Learning with PyTorch from Facebook**\
+  **Lesson 4 - Talking PyTorch with Soumith Chintala**\
+  **8. The Future of PyTorch**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 39](images/Day039.jpg)
