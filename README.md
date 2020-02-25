@@ -427,7 +427,7 @@ https://www.udacity.com/scholarships/facebook-pytorch-scholarship
 - My current progress is:\
   **Part 1. Intro to Deep Learning with PyTorch from Facebook**\
   **Lesson 5 - Introduction to PyTorch**\
-  **3. Optimization Techniques**
+  **3. Single layer neural networks solution**
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 43](images/Day043.jpg)
