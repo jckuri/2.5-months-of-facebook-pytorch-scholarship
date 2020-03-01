@@ -471,3 +471,13 @@ https://www.udacity.com/scholarships/facebook-pytorch-scholarship
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 47](images/Day047.jpg)
+
+## Day 48: February 29, 2020. #30DaysofUdacity
+- I watched some video lectures.
+- My current progress is:\
+  **Part 1. Intro to Deep Learning with PyTorch from Facebook**\
+  **Lesson 5 - Introduction to PyTorch**\
+  **8. Implementing Softmax Solution**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 48](images/Day048.jpg)
